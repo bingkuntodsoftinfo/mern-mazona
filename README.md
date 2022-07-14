@@ -23,3 +23,9 @@
     10. create route for /api/product
     11. return product
     12. rum npm start
+8. Fetch Product form Backend
+    1. set proxy in package.json
+    2. npm install axios
+    3. use state hook
+    4. use effect hook
+    5. use reducer hook
