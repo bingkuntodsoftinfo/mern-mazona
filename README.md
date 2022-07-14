@@ -5,3 +5,8 @@
 2. Install Tools
 3. Create React App
 4. Create Git Repository
+5. Show Product
+6. Add routing
+    1. nmp i react-router-dom
+    2. create route for home screen
+    3. create route for product
